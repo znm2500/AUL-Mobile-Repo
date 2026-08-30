@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AU Launcher</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-row">
+      <img class="logo" src="logo.png" alt="AU Launcher">
+      <h1 class="brand">AU LAUNCHER</h1>
+    </div>
+    <div class="search-row">
+      <div class="search-wrap">
+        <input id="search" type="text" class="search" data-i18n-ph="search_placeholder" placeholder="搜索 AU 游戏..." autocomplete="off">
+      </div>
+      <button id="lang" class="lang-btn" data-i18n="lang_switch">EN</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab" data-sort="new" data-i18n="sort_new">最新</button>
+    <button class="tab" data-sort="hot" data-i18n="sort_hot">最热</button>
+    <button class="tab" data-sort="name" data-i18n="sort_name">名字</button>
+    <button class="tab" data-sort="all" data-i18n="sort_all">全部</button>
+  </nav>
+
+  <main class="grid" id="grid"></main>
+
+  <div class="status" id="status" data-i18n="loading">加载中...</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
