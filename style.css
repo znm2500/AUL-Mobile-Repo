@@ -39,6 +39,8 @@ body {
   align-items: center;
   gap: 12px;
   margin-bottom: 12px;
+  text-decoration: none;
+  color: inherit;
 }
 
 .logo {
