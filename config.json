@@ -2133,6 +2133,21 @@
       "id": "Scratch_FatalErrorRemake_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-09-01T14:32:23.737Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "数字传说衫斯战",
+        "en": "NUMBERTALE Sans Fight"
+      },
+      "author": {
+        "zh": "虚无",
+        "en": "Xuwu"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_numbertale_mobileByTianQiGameByXuWu",
+      "publish_time": "2026-09-01T14:42:34.729Z",
+      "hot_score": 2
     }
   ],
   "newest_version": "0.2.6",
