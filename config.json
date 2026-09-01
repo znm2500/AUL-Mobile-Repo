@@ -2163,6 +2163,21 @@
       "id": "Godot3_UnderswapTheReckoning_GameByecstavis_tivityMobileByHadrian767",
       "publish_time": "2026-09-01T14:45:15.195Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：坏周一模拟器",
+        "en": "UNDERTALE:Bad Monday Simulator"
+      },
+      "author": {
+        "zh": "Lumpy Touch",
+        "en": "Lumpy Touch"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "GmsHTML_BadMondaySimulator_GameByLumpyTouchMobileByHadrian767",
+      "publish_time": "2026-09-01T15:10:57.359Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
