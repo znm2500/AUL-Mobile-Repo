@@ -2118,6 +2118,21 @@
       "id": "Scratch_UndertaleTrueMonstersRemake_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-09-01T14:12:08.337Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "致命错误衫斯战",
+        "en": "Fatal Error Sans Fight"
+      },
+      "author": {
+        "zh": "BossHim",
+        "en": "BossHim"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "Scratch_FatalErrorRemake_GameByBossHimMobileByHadrian767",
+      "publish_time": "2026-09-01T14:32:23.737Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
