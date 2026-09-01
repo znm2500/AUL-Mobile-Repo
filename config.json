@@ -2148,6 +2148,21 @@
       "id": "com_numbertale_mobileByTianQiGameByXuWu",
       "publish_time": "2026-09-01T14:42:34.729Z",
       "hot_score": 2
+    },
+    {
+      "name": {
+        "zh": "反转之下：审判日",
+        "en": "UNDERSWAP:The Rekoning"
+      },
+      "author": {
+        "zh": "ecstavis_tivity",
+        "en": "ecstavis_tivity"
+      },
+      "engine": "Godot",
+      "version": "0.0.1",
+      "id": "Godot3_UnderswapTheReckoning_GameByecstavis_tivityMobileByHadrian767",
+      "publish_time": "2026-09-01T14:45:15.195Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
