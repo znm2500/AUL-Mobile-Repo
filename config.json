@@ -2268,6 +2268,21 @@
       "id": "com_utrj_MobileByznm",
       "publish_time": "2026-09-02T10:52:07.191Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃传说衫斯战",
+        "en": "DUSTTALE Sans Fight"
+      },
+      "author": {
+        "zh": "复读鸭",
+        "en": "fdy"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2_DusttaleSansFight_GameByFDYMobileByHadrian767",
+      "publish_time": "2026-09-02T11:01:38.020Z",
+      "hot_score": 11
     }
   ],
   "newest_version": "0.2.6",
