@@ -2223,6 +2223,21 @@
       "id": "com_UndertaleCollapsed_MobileByMuBai",
       "publish_time": "2026-09-02T06:22:10.953Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：残息重生",
+        "en": "UNDERTALE: Rejuvenation Of The Last Breath"
+      },
+      "author": {
+        "zh": "RealAlex",
+        "en": "RealAlex"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_rjotlb_MobileByznm",
+      "publish_time": "2026-09-02T10:15:56.183Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
