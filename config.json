@@ -2253,6 +2253,21 @@
       "id": "com_rjotlbrm_MobileByznm",
       "publish_time": "2026-09-02T10:34:43.267Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：复活",
+        "en": "UNDERTALE: Rejuvenation"
+      },
+      "author": {
+        "zh": "SOOTFOOT",
+        "en": "SOOTFOOT"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_utrj_MobileByznm",
+      "publish_time": "2026-09-02T10:52:07.191Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
