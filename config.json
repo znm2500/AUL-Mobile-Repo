@@ -482,7 +482,7 @@
       "version": "0.0.1",
       "id": "com_jm47_dingyspydbforsaken_unofficial_port",
       "publish_time": "2026-08-31T10:55:19.322Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -1412,7 +1412,7 @@
       "version": "0.0.1",
       "id": "Gms2024_SPDusttaleNecroptosis_GameByJwHMobileByHadrian767",
       "publish_time": "2026-08-17T08:12:11.918Z",
-      "hot_score": 3
+      "hot_score": 4
     },
     {
       "name": {
@@ -2181,12 +2181,12 @@
     },
     {
       "name": {
-        "zh": "噩梦模式衫斯战",
-        "en": "Nightmare Mode Sans Fight"
+        "en": "Nightmare Mode Sans Fight",
+        "zh": "噩梦模式衫斯战"
       },
       "author": {
-        "zh": "MR",
-        "en": "MR"
+        "en": "MR",
+        "zh": "MR"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
@@ -2196,12 +2196,12 @@
     },
     {
       "name": {
-        "zh": "次时代传说衫斯战困难模式",
-        "en": "NEXTERATALE Sans Fight Hard Mode"
+        "en": "NEXTERATALE Sans Fight Hard Mode",
+        "zh": "次时代传说衫斯战困难模式"
       },
       "author": {
-        "zh": "查理",
-        "en": "CL"
+        "en": "CL",
+        "zh": "查理"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
@@ -2211,27 +2211,27 @@
     },
     {
       "name": {
-        "zh": "传说之下：崩溃",
-        "en": "UNDERTALE:Collapsed"
+        "en": "UNDERTALE:Collapsed",
+        "zh": "传说之下：崩溃"
       },
       "author": {
-        "zh": "wndfur",
-        "en": "wndfur"
+        "en": "wndfur",
+        "zh": "wndfur"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "com_UndertaleCollapsed_MobileByMuBai",
       "publish_time": "2026-09-02T06:22:10.953Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
-        "zh": "传说之下：残息重生",
-        "en": "UNDERTALE: Rejuvenation Of The Last Breath"
+        "en": "UNDERTALE: Rejuvenation Of The Last Breath",
+        "zh": "传说之下：残息重生"
       },
       "author": {
-        "zh": "RealAlex",
-        "en": "RealAlex"
+        "en": "RealAlex",
+        "zh": "RealAlex"
       },
       "engine": "Scratch",
       "version": "0.0.1",
@@ -2241,12 +2241,12 @@
     },
     {
       "name": {
-        "zh": "传说之下：残息重生重制版",
-        "en": "UNDERTALE: Rejuvenation Of The Last Breath Remake"
+        "en": "UNDERTALE: Rejuvenation Of The Last Breath Remake",
+        "zh": "传说之下：残息重生重制版"
       },
       "author": {
-        "zh": "MRT",
-        "en": "MRT"
+        "en": "MRT",
+        "zh": "MRT"
       },
       "engine": "Scratch",
       "version": "0.0.1",
@@ -2256,12 +2256,12 @@
     },
     {
       "name": {
-        "zh": "传说之下：复活",
-        "en": "UNDERTALE: Rejuvenation"
+        "en": "UNDERTALE: Rejuvenation",
+        "zh": "传说之下：复活"
       },
       "author": {
-        "zh": "SOOTFOOT",
-        "en": "SOOTFOOT"
+        "en": "SOOTFOOT",
+        "zh": "SOOTFOOT"
       },
       "engine": "Scratch",
       "version": "0.0.1",
@@ -2271,18 +2271,33 @@
     },
     {
       "name": {
-        "zh": "尘埃传说衫斯战",
-        "en": "DUSTTALE Sans Fight"
+        "en": "DUSTTALE Sans Fight",
+        "zh": "尘埃传说衫斯战"
       },
       "author": {
-        "zh": "复读鸭",
-        "en": "fdy"
+        "en": "fdy",
+        "zh": "复读鸭"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "Gms2_DusttaleSansFight_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-02T11:01:38.020Z",
       "hot_score": 11
+    },
+    {
+      "name": {
+        "zh": "墨水！衫斯战一阶段",
+        "en": "INK!Sans Fight Phase1"
+      },
+      "author": {
+        "zh": "BossHim",
+        "en": "BossHim"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_bhink_MobileByznm",
+      "publish_time": "2026-09-02T16:16:31.095Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
