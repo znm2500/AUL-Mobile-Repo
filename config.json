@@ -2328,6 +2328,21 @@
       "id": "Gms2023_UnnerfedJusticetale_GameByInjectingMobileByHadrian767",
       "publish_time": "2026-09-03T07:43:15.833Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "Niheme的游戏",
+        "en": "Niheme's Game"
+      },
+      "author": {
+        "zh": "Niheme",
+        "en": "Niheme"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2022_NIHEMeGames_GameByNIHEMeMobileByHadrian767",
+      "publish_time": "2026-09-03T08:50:31.876Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
