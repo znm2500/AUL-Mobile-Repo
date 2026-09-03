@@ -32,7 +32,7 @@
       "version": "0.0.1",
       "id": "Source_InkSans190_MobileByMuBai",
       "publish_time": "2026-08-23T08:03:42.296Z",
-      "hot_score": 11
+      "hot_score": 12
     },
     {
       "name": {
@@ -47,7 +47,7 @@
       "version": "0.0.1",
       "id": "com_AnEndingToAllOverJoystick_MobileByMuBai",
       "publish_time": "2026-07-04T11:50:19.994Z",
-      "hot_score": 40
+      "hot_score": 41
     },
     {
       "name": {
@@ -407,7 +407,7 @@
       "version": "0.0.1",
       "id": "com_STGCNJoystick_MobileByMuBai",
       "publish_time": "2026-06-21T14:27:12.293Z",
-      "hot_score": 21
+      "hot_score": 22
     },
     {
       "name": {
@@ -2286,8 +2286,23 @@
     },
     {
       "name": {
-        "zh": "梦魇衫斯战",
-        "en": "Nightmare Sans Fight"
+        "en": "Nightmare Sans Fight",
+        "zh": "梦魇衫斯战"
+      },
+      "author": {
+        "en": "BossHim",
+        "zh": "BossHim"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_nightmare_MobileByznm",
+      "publish_time": "2026-09-03T02:31:55.854Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：最后27小时衫斯瀑布遭遇战",
+        "en": "UNDERTALE:The Last 27 Hours Sans Waterfall encounter"
       },
       "author": {
         "zh": "BossHim",
@@ -2295,8 +2310,8 @@
       },
       "engine": "Scratch",
       "version": "0.0.1",
-      "id": "com_nightmare_MobileByznm",
-      "publish_time": "2026-09-03T02:31:55.854Z",
+      "id": "com__27hours_MobileByznm",
+      "publish_time": "2026-09-03T03:22:32.855Z",
       "hot_score": 0
     }
   ],
