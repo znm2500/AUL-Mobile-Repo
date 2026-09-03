@@ -2343,6 +2343,21 @@
       "id": "Gms2022_NIHEMeGames_GameByNIHEMeMobileByHadrian767",
       "publish_time": "2026-09-03T08:50:31.876Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "忘川传说衫斯战",
+        "en": "LETHETALE Sans Fight"
+      },
+      "author": {
+        "zh": "庄严的承诺",
+        "en": "zy"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2_Lethetale_GameByZY_MobileByXH",
+      "publish_time": "2026-09-03T09:18:42.029Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
