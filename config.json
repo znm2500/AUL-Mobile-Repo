@@ -227,7 +227,7 @@
       "version": "0.0.1",
       "id": "com_CTT078_Mobile",
       "publish_time": "2026-06-25T04:18:56.788Z",
-      "hot_score": 28
+      "hot_score": 29
     },
     {
       "name": {
@@ -272,7 +272,7 @@
       "version": "0.0.1",
       "id": "SDF_Cttif_Twentyseven",
       "publish_time": "2026-08-27T15:46:58.669Z",
-      "hot_score": 10
+      "hot_score": 11
     },
     {
       "name": {
@@ -362,7 +362,7 @@
       "version": "0.0.1",
       "id": "com_cgoat_chess_deltarunefriendless",
       "publish_time": "2026-07-17T12:07:39.416Z",
-      "hot_score": 20
+      "hot_score": 21
     },
     {
       "name": {
@@ -542,7 +542,7 @@
       "version": "0.0.1",
       "id": "Gms2_DusttaleSansFight_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-02T11:01:38.020Z",
-      "hot_score": 11
+      "hot_score": 12
     },
     {
       "name": {
@@ -842,7 +842,7 @@
       "version": "0.0.1",
       "id": "com_COAV022_MobileByMuBai",
       "publish_time": "2026-08-25T08:40:14.438Z",
-      "hot_score": 72
+      "hot_score": 73
     },
     {
       "name": {
@@ -1352,7 +1352,7 @@
       "version": "0.0.1",
       "id": "com_nightmare_MobileByznm",
       "publish_time": "2026-09-03T02:31:55.854Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -1952,7 +1952,7 @@
       "version": "0.0.1",
       "id": "com_rjotlb_MobileByznm",
       "publish_time": "2026-09-02T10:15:56.183Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -1967,7 +1967,7 @@
       "version": "0.0.1",
       "id": "com_rjotlbrm_MobileByznm",
       "publish_time": "2026-09-02T10:34:43.267Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -1997,7 +1997,7 @@
       "version": "0.0.1",
       "id": "GmsHTML_BadMondaySimulator_GameByLumpyTouchMobileByHadrian767",
       "publish_time": "2026-09-01T15:10:57.359Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -2297,7 +2297,7 @@
       "version": "0.0.1",
       "id": "Scratch_underworldSansFight_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-07-12T10:04:13.426Z",
-      "hot_score": 5
+      "hot_score": 6
     },
     {
       "name": {
@@ -2361,17 +2361,32 @@
     },
     {
       "name": {
-        "zh": "传说之下：最后27小时衫斯瀑布遭遇战",
-        "en": "UNDERTALE:The Last 27 Hours Sans Waterfall encounter"
+        "en": "UNDERTALE:The Last 27 Hours Sans Waterfall encounter",
+        "zh": "传说之下：最后27小时衫斯瀑布遭遇战"
       },
       "author": {
-        "zh": "BossHim",
-        "en": "BossHim"
+        "en": "BossHim",
+        "zh": "BossHim"
       },
       "engine": "Scratch",
       "version": "0.0.1",
       "id": "com_hours_MobileByznm",
       "publish_time": "2026-09-04T13:49:11.307Z",
+      "hot_score": 2
+    },
+    {
+      "name": {
+        "zh": "B-TTale Espe战",
+        "en": "B-TTale Espe Fight"
+      },
+      "author": {
+        "zh": "fdy & sugar",
+        "en": "fdy & sugar"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_ESPEMobile_MobileByTianQiGameByFDY",
+      "publish_time": "2026-09-04T17:09:18.292Z",
       "hot_score": 0
     }
   ],
