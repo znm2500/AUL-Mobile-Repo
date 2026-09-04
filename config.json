@@ -2388,6 +2388,21 @@
       "id": "com_ESPEMobile_MobileByTianQiGameByFDY",
       "publish_time": "2026-09-04T17:09:18.292Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃的信任X",
+        "en": "DUSTTRUST X"
+      },
+      "author": {
+        "zh": "Team Dusttrust",
+        "en": "Team Dusttrust"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_DusttrustXCN_MobileByMuBai",
+      "publish_time": "2026-09-04T17:10:32.588Z",
+      "hot_score": 9
     }
   ],
   "newest_version": "0.2.6",
