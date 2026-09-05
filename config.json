@@ -152,7 +152,7 @@
       "version": "0.0.1",
       "id": "com_jm47_bttv",
       "publish_time": "2026-06-25T04:13:21.106Z",
-      "hot_score": 45
+      "hot_score": 46
     },
     {
       "name": {
@@ -167,7 +167,7 @@
       "version": "0.0.1",
       "id": "com_btt_MobileByznm",
       "publish_time": "2026-07-05T06:00:22.875Z",
-      "hot_score": 23
+      "hot_score": 24
     },
     {
       "name": {
@@ -422,7 +422,7 @@
       "version": "0.0.1",
       "id": "com_STGCNJoystick_MobileByMuBai",
       "publish_time": "2026-06-21T14:27:12.293Z",
-      "hot_score": 22
+      "hot_score": 23
     },
     {
       "name": {
@@ -2421,18 +2421,33 @@
     },
     {
       "name": {
-        "zh": "时间悖论",
-        "en": "Time paradox"
+        "en": "Time paradox",
+        "zh": "时间悖论"
       },
       "author": {
-        "zh": "Raihyou",
-        "en": "Raihyou"
+        "en": "Raihyou",
+        "zh": "Raihyou"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "com_timeparadox_mobilebyznm",
       "publish_time": "2026-09-05T13:36:00.057Z",
       "hot_score": 9
+    },
+    {
+      "name": {
+        "zh": "魄殁无功：星光枯草衫斯战",
+        "en": "Lifefield:Traveler At Sunset Sans Fight"
+      },
+      "author": {
+        "zh": "可口可乐",
+        "en": "kokakola"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_Traveler_Mobilebyznm",
+      "publish_time": "2026-09-05T14:23:23.911Z",
+      "hot_score": 2
     }
   ],
   "newest_version": "0.2.6",
