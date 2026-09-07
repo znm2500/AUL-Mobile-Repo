@@ -2478,6 +2478,21 @@
       "id": "com_QCGameJoystick_MobileByMuBai",
       "publish_time": "2026-09-07T11:33:33.882Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "OVERSAVETALE",
+        "en": "OVERSAVETALE"
+      },
+      "author": {
+        "zh": "复读鸭",
+        "en": "fdy"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2_OverSaveTale032AlmostOfficial_GameByFDYMobileByHadrian767",
+      "publish_time": "2026-09-07T11:43:53.604Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
