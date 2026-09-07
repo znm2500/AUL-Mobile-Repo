@@ -2523,6 +2523,21 @@
       "id": "com_ulbwang_mobilebyznm",
       "publish_time": "2026-09-07T14:21:37.841Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "UNDERTALE:Hello (BPM) 2023",
+        "en": "UNDERTALE:Hello (BPM) 2023"
+      },
+      "author": {
+        "zh": "Solor_1733",
+        "en": "Solor_1733"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2023_HelloBPM2023_GameBySolorMobileByHadrian767",
+      "publish_time": "2026-09-07T14:44:04.432Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
