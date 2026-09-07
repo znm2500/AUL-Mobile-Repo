@@ -107,7 +107,7 @@
       "version": "0.0.1",
       "id": "com_espe_mobilebydm",
       "publish_time": "2026-06-26T05:49:32.153Z",
-      "hot_score": 13
+      "hot_score": 14
     },
     {
       "name": {
@@ -572,7 +572,7 @@
       "version": "0.0.1",
       "id": "Gms2024_DusttalePlead_GameByArskutMobileByHadrian767",
       "publish_time": "2026-08-15T11:08:06.573Z",
-      "hot_score": 3
+      "hot_score": 4
     },
     {
       "name": {
@@ -707,7 +707,7 @@
       "version": "0.0.1",
       "id": "com_DusttrustXCN_MobileByMuBai",
       "publish_time": "2026-09-04T17:10:32.588Z",
-      "hot_score": 10
+      "hot_score": 12
     },
     {
       "name": {
@@ -842,7 +842,7 @@
       "version": "0.0.1",
       "id": "com_SWAPFELLGODSWILL_MobileByMuBai",
       "publish_time": "2026-06-28T04:02:07.913Z",
-      "hot_score": 17
+      "hot_score": 18
     },
     {
       "name": {
@@ -857,7 +857,7 @@
       "version": "0.0.1",
       "id": "com_eto3cotv_MobileByznm",
       "publish_time": "2026-07-09T13:47:59.178Z",
-      "hot_score": 41
+      "hot_score": 42
     },
     {
       "name": {
@@ -872,7 +872,7 @@
       "version": "0.0.1",
       "id": "com_COAV022_MobileByMuBai",
       "publish_time": "2026-08-25T08:40:14.438Z",
-      "hot_score": 73
+      "hot_score": 74
     },
     {
       "name": {
@@ -902,7 +902,7 @@
       "version": "0.0.1",
       "id": "com_endingtale_MobileByznm",
       "publish_time": "2026-07-04T15:03:58.744Z",
-      "hot_score": 9
+      "hot_score": 10
     },
     {
       "name": {
@@ -1142,7 +1142,7 @@
       "version": "0.0.1",
       "id": "com_bhink_MobileByznm",
       "publish_time": "2026-09-02T16:16:31.095Z",
-      "hot_score": 1
+      "hot_score": 2
     },
     {
       "name": {
@@ -1397,7 +1397,7 @@
       "version": "0.0.1",
       "id": "Gms2022_NIHEMeGames_GameByNIHEMeMobileByHadrian767",
       "publish_time": "2026-09-03T08:50:31.876Z",
-      "hot_score": 3
+      "hot_score": 4
     },
     {
       "name": {
@@ -1742,7 +1742,7 @@
       "version": "0.0.1",
       "id": "com_underbrella_Mobilebyznm",
       "publish_time": "2026-09-05T07:32:35.663Z",
-      "hot_score": 3
+      "hot_score": 4
     },
     {
       "name": {
@@ -2342,7 +2342,7 @@
       "version": "0.0.1",
       "id": "com_shdmkl_MobileByznm",
       "publish_time": "2026-07-07T14:00:10.357Z",
-      "hot_score": 27
+      "hot_score": 28
     },
     {
       "name": {
@@ -2417,7 +2417,7 @@
       "version": "0.0.1",
       "id": "Gms2023_YourNightmare_GameByKokaKolaMobileByHadrian767",
       "publish_time": "2026-07-16T10:56:27.638Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -2447,21 +2447,36 @@
       "version": "0.0.1",
       "id": "com_Traveler_Mobilebyznm",
       "publish_time": "2026-09-05T14:23:23.911Z",
-      "hot_score": 5
+      "hot_score": 6
     },
     {
       "name": {
-        "zh": "传说之下：超越生命衫斯战",
-        "en": "UNDERTALE: Will Over Life Sans Fight"
+        "en": "UNDERTALE: Will Over Life Sans Fight",
+        "zh": "传说之下：超越生命衫斯战"
       },
       "author": {
-        "zh": "可口可乐",
-        "en": "kokakola"
+        "en": "kokakola",
+        "zh": "可口可乐"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "com_WillOverLife_MobileByMuBai",
       "publish_time": "2026-09-07T04:22:47.796Z",
+      "hot_score": 1
+    },
+    {
+      "name": {
+        "zh": "穹狗的游戏",
+        "en": "QC's Games"
+      },
+      "author": {
+        "zh": "穹c啋f汾_QcCfF",
+        "en": "穹c啋f汾_QcCfF"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_QCGameJoystick_MobileByMuBai",
+      "publish_time": "2026-09-07T11:33:33.882Z",
       "hot_score": 0
     }
   ],
