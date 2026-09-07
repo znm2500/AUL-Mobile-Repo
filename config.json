@@ -2297,7 +2297,7 @@
       "version": "0.0.1",
       "id": "com_hours_MobileByznm",
       "publish_time": "2026-09-04T13:49:11.307Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -2402,7 +2402,7 @@
       "version": "0.0.1",
       "id": "WeirdSansFight_GameByDEL_MobileByHadrian769",
       "publish_time": "2026-06-22T05:08:36.339Z",
-      "hot_score": 106
+      "hot_score": 107
     },
     {
       "name": {
@@ -2466,12 +2466,12 @@
     },
     {
       "name": {
-        "zh": "穹狗的游戏",
-        "en": "QC's Games"
+        "en": "QC's Games",
+        "zh": "穹狗的游戏"
       },
       "author": {
-        "zh": "穹c啋f汾_QcCfF",
-        "en": "穹c啋f汾_QcCfF"
+        "en": "穹c啋f汾_QcCfF",
+        "zh": "穹c啋f汾_QcCfF"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
@@ -2481,17 +2481,32 @@
     },
     {
       "name": {
-        "zh": "OVERSAVETALE",
-        "en": "OVERSAVETALE"
+        "en": "OVERSAVETALE",
+        "zh": "OVERSAVETALE"
       },
       "author": {
-        "zh": "复读鸭",
-        "en": "fdy"
+        "en": "fdy",
+        "zh": "复读鸭"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "Gms2_OverSaveTale032AlmostOfficial_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-07T11:43:53.604Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "反转之下派帕瑞斯战",
+        "en": "UNDERSWAP Papyrus Fight"
+      },
+      "author": {
+        "zh": "NnN",
+        "en": "NnN"
+      },
+      "engine": "Construct",
+      "version": "0.0.1",
+      "id": "com_underswapnnn_MobileByznm",
+      "publish_time": "2026-09-07T12:44:02.804Z",
       "hot_score": 0
     }
   ],
