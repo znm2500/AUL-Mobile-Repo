@@ -2508,6 +2508,21 @@
       "id": "com_terrortale_MobileByznm",
       "publish_time": "2026-09-07T14:08:07.143Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：最后的呼吸衫斯战三阶段",
+        "en": "UNDERTALE: Last Breath Sans Fight Phase3"
+      },
+      "author": {
+        "zh": "wang123456",
+        "en": "wang123456"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_ulbwang_mobilebyznm",
+      "publish_time": "2026-09-07T14:21:37.841Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
