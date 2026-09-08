@@ -17,7 +17,7 @@
       "version": "0.0.1",
       "id": "alphasanssurvivalbattleii_by_alphaplayer_mobile_by_aj",
       "publish_time": "2026-06-28T09:22:41.092Z",
-      "hot_score": 74
+      "hot_score": 75
     },
     {
       "name": {
@@ -392,7 +392,7 @@
       "version": "0.0.1",
       "id": "org_wasneetpotato_frostveil",
       "publish_time": "2026-06-21T14:20:16.699Z",
-      "hot_score": 20
+      "hot_score": 21
     },
     {
       "name": {
@@ -1472,7 +1472,7 @@
       "version": "0.0.1",
       "id": "Gms2_OverSaveTale032AlmostOfficial_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-07T11:43:53.604Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -1982,7 +1982,7 @@
       "version": "0.0.1",
       "id": "com_ulbwang_mobilebyznm",
       "publish_time": "2026-09-08T04:54:11.548Z",
-      "hot_score": 1
+      "hot_score": 2
     },
     {
       "name": {
@@ -2057,7 +2057,7 @@
       "version": "0.0.1",
       "id": "com_utrj_MobileByznm",
       "publish_time": "2026-09-03T03:40:24.227Z",
-      "hot_score": 5
+      "hot_score": 6
     },
     {
       "name": {
@@ -2541,12 +2541,12 @@
     },
     {
       "name": {
-        "zh": "传说之下:雨中泪",
-        "en": "UNDERTALE:Tears In The Rain"
+        "en": "UNDERTALE:Tears In The Rain",
+        "zh": "传说之下:雨中泪"
       },
       "author": {
-        "zh": "Fired",
-        "en": "Fired"
+        "en": "Fired",
+        "zh": "Fired"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
@@ -2556,17 +2556,32 @@
     },
     {
       "name": {
-        "zh": "逆天改命困难模式衫斯战",
-        "en": "Inverted Fate Hard Mode Sans Fight"
+        "en": "Inverted Fate Hard Mode Sans Fight",
+        "zh": "逆天改命困难模式衫斯战"
       },
       "author": {
-        "zh": "Pro_Truba",
-        "en": "Pro_Truba"
+        "en": "Pro_Truba",
+        "zh": "Pro_Truba"
       },
       "engine": "Construct",
       "version": "0.0.1",
       "id": "com_interfate_MobileByznm",
       "publish_time": "2026-09-08T05:31:40.326Z",
+      "hot_score": 1
+    },
+    {
+      "name": {
+        "zh": "ARITALE对战PepsiNoe",
+        "en": "ARITALE VS PepsiNoe"
+      },
+      "author": {
+        "zh": "Magi",
+        "en": "Magi"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "Gms2022_AritaleVsPepsiNoe_GameByMagiTheTrollMobileByHadrian767",
+      "publish_time": "2026-09-08T14:15:34.379Z",
       "hot_score": 0
     }
   ],
