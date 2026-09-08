@@ -2552,7 +2552,7 @@
       "version": "0.0.1",
       "id": "Gms2023_TearsInTheRain_GameByFiredMobileByHadrian767",
       "publish_time": "2026-09-08T05:04:01.192Z",
-      "hot_score": 12
+      "hot_score": 13
     },
     {
       "name": {
@@ -2571,17 +2571,32 @@
     },
     {
       "name": {
-        "zh": "ARITALE对战PepsiNoe",
-        "en": "ARITALE VS PepsiNoe"
+        "en": "ARITALE VS PepsiNoe",
+        "zh": "ARITALE对战PepsiNoe"
       },
       "author": {
-        "zh": "Magi",
-        "en": "Magi"
+        "en": "Magi",
+        "zh": "Magi"
       },
       "engine": "GameMaker",
       "version": "0.0.1",
       "id": "Gms2022_AritaleVsPepsiNoe_GameByMagiTheTrollMobileByHadrian767",
       "publish_time": "2026-09-08T14:15:34.379Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "残暴之下：重大灾难",
+        "en": "UNDERFELL:Catastrophe"
+      },
+      "author": {
+        "zh": "TraXsus",
+        "en": "TraXsus"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_underfell_MobileByznm",
+      "publish_time": "2026-09-08T14:55:14.730Z",
       "hot_score": 0
     }
   ],
