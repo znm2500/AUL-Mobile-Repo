@@ -2553,6 +2553,21 @@
       "id": "Gms2023_TearsInTheRain_GameByFiredMobileByHadrian767",
       "publish_time": "2026-09-08T05:04:01.192Z",
       "hot_score": 12
+    },
+    {
+      "name": {
+        "zh": "逆天改命困难模式衫斯战",
+        "en": "Inverted Fate Hard Mode Sans Fight"
+      },
+      "author": {
+        "zh": "Pro_Truba",
+        "en": "Pro_Truba"
+      },
+      "engine": "Construct",
+      "version": "0.0.1",
+      "id": "com_interfate_MobileByznm",
+      "publish_time": "2026-09-08T05:31:40.326Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
