@@ -572,7 +572,7 @@
       "version": "0.0.1",
       "id": "Gms2_DusttaleSansFight_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-02T11:01:38.020Z",
-      "hot_score": 13
+      "hot_score": 14
     },
     {
       "name": {
@@ -2582,7 +2582,7 @@
       "version": "0.0.1",
       "id": "WeirdSansFight_GameByDEL_MobileByHadrian769",
       "publish_time": "2026-06-22T05:08:36.339Z",
-      "hot_score": 107
+      "hot_score": 108
     },
     {
       "name": {
@@ -2631,8 +2631,23 @@
     },
     {
       "name": {
-        "zh": "传说之下衫斯生存战",
-        "en": "UNDERTALE Sans Survival Fight"
+        "en": "UNDERTALE Sans Survival Fight",
+        "zh": "传说之下衫斯生存战"
+      },
+      "author": {
+        "en": "HARDBRISK",
+        "zh": "HARDBRISK"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_survival_MobileByznm",
+      "publish_time": "2026-09-09T11:02:23.893Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "残暴之下衫斯战",
+        "en": "UNDERFELL Sans Fight"
       },
       "author": {
         "zh": "HARDBRISK",
@@ -2640,8 +2655,8 @@
       },
       "engine": "Scratch",
       "version": "0.0.1",
-      "id": "com_survival_MobileByznm",
-      "publish_time": "2026-09-09T11:02:23.893Z",
+      "id": "com_underfellbri_MobileByznm",
+      "publish_time": "2026-09-09T11:14:14.548Z",
       "hot_score": 0
     }
   ],
