@@ -2658,6 +2658,21 @@
       "id": "com_underfellbri_MobileByznm",
       "publish_time": "2026-09-09T11:14:14.548Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下衫斯战",
+        "en": "UNDERTALE Sans Fight"
+      },
+      "author": {
+        "zh": "Springy",
+        "en": "Springy"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_utremake_MobileByznm",
+      "publish_time": "2026-09-09T11:28:07.906Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
