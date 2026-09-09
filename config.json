@@ -2613,6 +2613,21 @@
       "id": "com_dtsk_MobileByznm",
       "publish_time": "2026-09-09T09:39:38.541Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下8周年究极衫斯战",
+        "en": "UNDERTALE 8th Aniversity Unimate Sans Fight"
+      },
+      "author": {
+        "zh": "HARDBRISK",
+        "en": "HARDBRISK"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_eight_MobileByznm",
+      "publish_time": "2026-09-09T10:55:08.541Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
