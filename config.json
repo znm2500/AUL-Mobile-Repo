@@ -77,7 +77,7 @@
       "version": "0.0.1",
       "id": "Gms2022_AritaleVsPepsiNoe_GameByMagiTheTrollMobileByHadrian767",
       "publish_time": "2026-09-08T14:15:34.379Z",
-      "hot_score": 1
+      "hot_score": 2
     },
     {
       "name": {
@@ -527,7 +527,7 @@
       "version": "0.0.1",
       "id": "Scratch_DustDustDustSansFight_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-06-28T00:45:20.634Z",
-      "hot_score": 39
+      "hot_score": 40
     },
     {
       "name": {
@@ -2642,16 +2642,16 @@
       "version": "0.0.1",
       "id": "com_survival_MobileByznm",
       "publish_time": "2026-09-09T11:02:23.893Z",
-      "hot_score": 0
+      "hot_score": 2
     },
     {
       "name": {
-        "zh": "残暴之下衫斯战",
-        "en": "UNDERFELL Sans Fight"
+        "en": "UNDERFELL Sans Fight",
+        "zh": "残暴之下衫斯战"
       },
       "author": {
-        "zh": "HARDBRISK",
-        "en": "HARDBRISK"
+        "en": "HARDBRISK",
+        "zh": "HARDBRISK"
       },
       "engine": "Scratch",
       "version": "0.0.1",
@@ -2661,18 +2661,33 @@
     },
     {
       "name": {
-        "zh": "传说之下衫斯战",
-        "en": "UNDERTALE Sans Fight"
+        "en": "UNDERTALE Sans Fight",
+        "zh": "传说之下衫斯战"
       },
       "author": {
-        "zh": "Springy",
-        "en": "Springy"
+        "en": "Springy",
+        "zh": "Springy"
       },
       "engine": "Scratch",
       "version": "0.0.1",
       "id": "com_utremake_MobileByznm",
       "publish_time": "2026-09-09T11:28:07.906Z",
-      "hot_score": 0
+      "hot_score": 1
+    },
+    {
+      "name": {
+        "zh": "贪图传说衫斯战",
+        "en": "COVETTALE Sans Fight"
+      },
+      "author": {
+        "zh": "风雪",
+        "en": "fengxue"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_ilkaports_utfangames",
+      "publish_time": "2026-09-09T14:00:40.123Z",
+      "hot_score": 4
     }
   ],
   "newest_version": "0.2.6",
