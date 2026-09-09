@@ -2601,12 +2601,12 @@
     },
     {
       "name": {
-        "zh": "尘埃传说衫斯战",
-        "en": "DUSTTALE Sans Fight"
+        "en": "DUSTTALE Sans Fight",
+        "zh": "尘埃传说衫斯战"
       },
       "author": {
-        "zh": "Stretch",
-        "en": "Stretch"
+        "en": "Stretch",
+        "zh": "Stretch"
       },
       "engine": "Scratch",
       "version": "0.0.1",
@@ -2616,8 +2616,23 @@
     },
     {
       "name": {
-        "zh": "传说之下8周年究极衫斯战",
-        "en": "UNDERTALE 8th Aniversity Unimate Sans Fight"
+        "en": "UNDERTALE 8th Aniversity Unimate Sans Fight",
+        "zh": "传说之下8周年究极衫斯战"
+      },
+      "author": {
+        "en": "HARDBRISK",
+        "zh": "HARDBRISK"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_eight_MobileByznm",
+      "publish_time": "2026-09-09T10:55:08.541Z",
+      "hot_score": 1
+    },
+    {
+      "name": {
+        "zh": "传说之下衫斯生存战",
+        "en": "UNDERTALE Sans Survival Fight"
       },
       "author": {
         "zh": "HARDBRISK",
@@ -2625,8 +2640,8 @@
       },
       "engine": "Scratch",
       "version": "0.0.1",
-      "id": "com_eight_MobileByznm",
-      "publish_time": "2026-09-09T10:55:08.541Z",
+      "id": "com_survival_MobileByznm",
+      "publish_time": "2026-09-09T11:02:23.893Z",
       "hot_score": 0
     }
   ],
