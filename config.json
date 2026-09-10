@@ -2703,6 +2703,21 @@
       "id": "com_swapfelldesolation_MobileByznm",
       "publish_time": "2026-09-10T16:24:35.575Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "反转残暴：荒芜镁塔顿战",
+        "en": "SWAPFELL:Desolation Mettaton Fight"
+      },
+      "author": {
+        "zh": "Haloboi3",
+        "en": "Haloboi3"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_swapfelldesolationm_MobileByznm",
+      "publish_time": "2026-09-10T16:35:43.887Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
