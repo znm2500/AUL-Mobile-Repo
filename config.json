@@ -2718,6 +2718,21 @@
       "id": "com_swapfelldesolationm_MobileByznm",
       "publish_time": "2026-09-10T16:35:43.887Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "反转残暴：荒芜艾斯戈尔战",
+        "en": "SWAPFELL:Desolation Asgore Fight"
+      },
+      "author": {
+        "zh": "Haloboi3",
+        "en": "Haloboi3"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_swapfelldesolationa_MobileByznm",
+      "publish_time": "2026-09-10T16:57:57.154Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
