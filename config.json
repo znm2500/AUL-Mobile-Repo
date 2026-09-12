@@ -272,7 +272,7 @@
       "version": "0.0.1",
       "id": "cttf_lm",
       "publish_time": "2026-06-28T00:51:29.776Z",
-      "hot_score": 30
+      "hot_score": 31
     },
     {
       "name": {
@@ -302,7 +302,7 @@
       "version": "0.0.1",
       "id": "SDF_Cttif_Twentyseven",
       "publish_time": "2026-08-27T15:46:58.669Z",
-      "hot_score": 12
+      "hot_score": 13
     },
     {
       "name": {
@@ -602,7 +602,7 @@
       "version": "0.0.1",
       "id": "com_dtsk_MobileByznm",
       "publish_time": "2026-09-09T09:39:38.541Z",
-      "hot_score": 3
+      "hot_score": 4
     },
     {
       "name": {
@@ -662,7 +662,7 @@
       "version": "0.0.1",
       "id": "com_injury_mobilebyznm",
       "publish_time": "2026-08-24T17:18:45.487Z",
-      "hot_score": 8
+      "hot_score": 9
     },
     {
       "name": {
@@ -827,7 +827,7 @@
       "version": "0.0.1",
       "id": "com_DusttrustRadRevision_MobileByMuBai",
       "publish_time": "2026-07-07T14:22:15.529Z",
-      "hot_score": 26
+      "hot_score": 27
     },
     {
       "name": {
@@ -2057,7 +2057,7 @@
       "version": "0.0.1",
       "id": "com_eight_MobileByznm",
       "publish_time": "2026-09-09T10:55:08.541Z",
-      "hot_score": 4
+      "hot_score": 5
     },
     {
       "name": {
@@ -2177,7 +2177,7 @@
       "version": "0.0.1",
       "id": "ubb_c_hjjj",
       "publish_time": "2026-07-11T11:56:46.105Z",
-      "hot_score": 24
+      "hot_score": 25
     },
     {
       "name": {
@@ -2312,7 +2312,7 @@
       "version": "0.0.1",
       "id": "Scratch_LethalDealRemake_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-07-11T12:47:55.859Z",
-      "hot_score": 25
+      "hot_score": 26
     },
     {
       "name": {
@@ -2417,7 +2417,7 @@
       "version": "0.0.1",
       "id": "Gms2023_HelloBPM2023_GameBySolorMobileByHadrian767",
       "publish_time": "2026-09-07T14:44:04.432Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -2612,7 +2612,7 @@
       "version": "0.0.1",
       "id": "com_vhs_MobileByznm",
       "publish_time": "2026-07-09T15:14:42.022Z",
-      "hot_score": 42
+      "hot_score": 43
     },
     {
       "name": {
@@ -2766,17 +2766,32 @@
     },
     {
       "name": {
-        "zh": "Halo·尘埃不信",
-        "en": "Halo's DUSTBELIEF"
+        "en": "Halo's DUSTBELIEF",
+        "zh": "Halo·尘埃不信"
       },
       "author": {
-        "zh": "Holoboi3",
-        "en": "Holoboi3"
+        "en": "Holoboi3",
+        "zh": "Holoboi3"
       },
       "engine": "Scratch",
       "version": "0.0.1",
       "id": "com_halosdust_mobile",
       "publish_time": "2026-09-12T09:44:20.208Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "故事转换查拉战",
+        "en": "STORYSHIFT Chara Fight"
+      },
+      "author": {
+        "zh": "NeoXZenith",
+        "en": "NeoXZenith"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_DTP3_Mobile",
+      "publish_time": "2026-09-12T15:35:14.616Z",
       "hot_score": 0
     }
   ],
