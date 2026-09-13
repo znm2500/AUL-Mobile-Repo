@@ -666,21 +666,6 @@
     },
     {
       "name": {
-        "en": "DUSTTALE:Last Genocide",
-        "zh": "尘埃传说：最后的屠杀"
-      },
-      "author": {
-        "en": "Team DTLG",
-        "zh": "DTLG团队"
-      },
-      "engine": "ClickTeam",
-      "version": "0.0.1",
-      "id": "com_hadrian_dtlg",
-      "publish_time": "2026-06-25T04:10:55.357Z",
-      "hot_score": 110
-    },
-    {
-      "name": {
         "en": "DUSTTALE×少女A",
         "zh": "尘埃传说×少女A"
       },
