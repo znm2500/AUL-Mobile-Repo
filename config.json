@@ -602,7 +602,7 @@
       "version": "0.0.1",
       "id": "com_dtsk_MobileByznm",
       "publish_time": "2026-09-09T09:39:38.541Z",
-      "hot_score": 4
+      "hot_score": 5
     },
     {
       "name": {
@@ -1157,7 +1157,7 @@
       "version": "0.0.1",
       "id": "com_isf_chinesebydm",
       "publish_time": "2026-06-21T06:33:09.704Z",
-      "hot_score": 63
+      "hot_score": 64
     },
     {
       "name": {
@@ -1172,7 +1172,7 @@
       "version": "0.0.1",
       "id": "com_bhink_MobileByznm",
       "publish_time": "2026-09-02T16:16:31.095Z",
-      "hot_score": 4
+      "hot_score": 5
     },
     {
       "name": {
@@ -2796,17 +2796,32 @@
     },
     {
       "name": {
-        "zh": "传说之下：我怀念那份宁静",
-        "en": "UNDERTALE:i miss the quiet"
+        "en": "UNDERTALE:i miss the quiet",
+        "zh": "传说之下：我怀念那份宁静"
       },
       "author": {
-        "zh": "lolminnion0",
-        "en": "lolminnion0"
+        "en": "lolminnion0",
+        "zh": "lolminnion0"
       },
       "engine": "Scratch",
       "version": "0.0.1",
       "id": "comimissthqu_MobileByznm",
       "publish_time": "2026-09-14T08:59:55.775Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃传说衫斯瀑布遭遇战",
+        "en": "DUSTTALE Sans Waterfall encounter"
+      },
+      "author": {
+        "zh": "MR257",
+        "en": "MR257"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "com_waterfallencounter_MobileByznm",
+      "publish_time": "2026-09-14T10:05:03.350Z",
       "hot_score": 0
     }
   ],
