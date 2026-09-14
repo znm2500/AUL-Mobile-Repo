@@ -17,7 +17,7 @@
       "version": "0.0.1",
       "id": "alphasanssurvivalbattleii_by_alphaplayer_mobile_by_aj",
       "publish_time": "2026-06-28T09:22:41.092Z",
-      "hot_score": 77
+      "hot_score": 78
     },
     {
       "name": {
@@ -182,7 +182,7 @@
       "version": "0.0.1",
       "id": "com_btt_MobileByznm",
       "publish_time": "2026-07-05T06:00:22.875Z",
-      "hot_score": 24
+      "hot_score": 25
     },
     {
       "name": {
@@ -962,7 +962,7 @@
       "version": "0.0.1",
       "id": "com_errror404_mobileznm",
       "publish_time": "2026-06-30T13:22:57.919Z",
-      "hot_score": 57
+      "hot_score": 59
     },
     {
       "name": {
@@ -1442,7 +1442,7 @@
       "version": "0.0.1",
       "id": "com_nightmare_MobileByznm",
       "publish_time": "2026-09-03T02:31:55.854Z",
-      "hot_score": 1
+      "hot_score": 2
     },
     {
       "name": {
@@ -2042,7 +2042,7 @@
       "version": "0.0.1",
       "id": "com_eight_MobileByznm",
       "publish_time": "2026-09-09T10:55:08.541Z",
-      "hot_score": 6
+      "hot_score": 8
     },
     {
       "name": {
@@ -2162,7 +2162,7 @@
       "version": "0.0.1",
       "id": "ubb_c_hjjj",
       "publish_time": "2026-07-11T11:56:46.105Z",
-      "hot_score": 25
+      "hot_score": 26
     },
     {
       "name": {
@@ -2297,7 +2297,7 @@
       "version": "0.0.1",
       "id": "Scratch_LethalDealRemake_GameByBossHimMobileByHadrian767",
       "publish_time": "2026-07-11T12:47:55.859Z",
-      "hot_score": 26
+      "hot_score": 27
     },
     {
       "name": {
@@ -2417,7 +2417,7 @@
       "version": "0.0.1",
       "id": "com_karma_MobileByznm",
       "publish_time": "2026-08-14T07:23:15.759Z",
-      "hot_score": 6
+      "hot_score": 7
     },
     {
       "name": {
@@ -2792,7 +2792,7 @@
       "version": "0.0.1",
       "id": "com_subrain_dtlg",
       "publish_time": "2026-09-13T14:16:41.321Z",
-      "hot_score": 111
+      "hot_score": 112
     },
     {
       "name": {
@@ -2807,21 +2807,36 @@
       "version": "0.0.1",
       "id": "comimissthqu_MobileByznm",
       "publish_time": "2026-09-14T08:59:55.775Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
-        "zh": "尘埃传说衫斯瀑布遭遇战",
-        "en": "DUSTTALE Sans Waterfall encounter"
+        "en": "DUSTTALE Sans Waterfall encounter",
+        "zh": "尘埃传说衫斯瀑布遭遇战"
       },
       "author": {
-        "zh": "MR257",
-        "en": "MR257"
+        "en": "MR257",
+        "zh": "MR257"
       },
       "engine": "Scratch",
       "version": "0.0.1",
       "id": "com_waterfallencounter_MobileByznm",
       "publish_time": "2026-09-14T10:05:03.350Z",
+      "hot_score": 1
+    },
+    {
+      "name": {
+        "zh": "残暴之下衫斯战",
+        "en": "UNDERFELL Sans Fight"
+      },
+      "author": {
+        "zh": "SaltyLily",
+        "en": "SaltyLily"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_underfellsaty_mobilebyznm",
+      "publish_time": "2026-09-14T13:44:19.418Z",
       "hot_score": 0
     }
   ],
