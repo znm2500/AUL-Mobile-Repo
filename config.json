@@ -32,7 +32,7 @@
       "version": "0.0.1",
       "id": "Source_InkSans190_MobileByMuBai",
       "publish_time": "2026-08-23T08:03:42.296Z",
-      "hot_score": 15
+      "hot_score": 17
     },
     {
       "name": {
@@ -2192,7 +2192,7 @@
       "version": "0.0.1",
       "id": "xyz14_tesu",
       "publish_time": "2026-06-26T04:15:42.395Z",
-      "hot_score": 25
+      "hot_score": 26
     },
     {
       "name": {
@@ -2612,7 +2612,7 @@
       "version": "0.0.1",
       "id": "com_hours_MobileByznm",
       "publish_time": "2026-09-04T13:49:11.307Z",
-      "hot_score": 11
+      "hot_score": 12
     },
     {
       "name": {
@@ -2781,18 +2781,33 @@
     },
     {
       "name": {
-        "zh": "尘埃传说：最后的屠杀",
-        "en": "DUSTTALE:Last Genocide"
+        "en": "DUSTTALE:Last Genocide",
+        "zh": "尘埃传说：最后的屠杀"
       },
       "author": {
-        "zh": "DTLG团队",
-        "en": "Team DTLG"
+        "en": "Team DTLG",
+        "zh": "DTLG团队"
       },
       "engine": "ClickTeam",
       "version": "0.0.1",
       "id": "com_subrain_dtlg",
       "publish_time": "2026-09-13T14:16:41.321Z",
-      "hot_score": 110
+      "hot_score": 111
+    },
+    {
+      "name": {
+        "zh": "传说之下：我怀念那份宁静",
+        "en": "UNDERTALE:i miss the quiet"
+      },
+      "author": {
+        "zh": "lolminnion0",
+        "en": "lolminnion0"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "comimissthqu_MobileByznm",
+      "publish_time": "2026-09-14T08:59:55.775Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
