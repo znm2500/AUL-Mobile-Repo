@@ -2883,6 +2883,21 @@
       "id": "com_ilkamp_swapfellpaps",
       "publish_time": "2026-09-16T09:38:09.867Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃反转：尘埃的信任衫斯战",
+        "en": "DUSTSWAP:DUSTTRUST Sans Fight"
+      },
+      "author": {
+        "zh": "Dingyspy",
+        "en": "Dingyspy"
+      },
+      "engine": "Godot",
+      "version": "0.0.1",
+      "id": "com_jm47_dingyspydt",
+      "publish_time": "2026-09-16T10:29:33.484Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
