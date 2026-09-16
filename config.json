@@ -467,7 +467,7 @@
       "version": "0.0.1",
       "id": "com_RynoGG_DeltaTravelers",
       "publish_time": "2026-06-21T06:28:10.321Z",
-      "hot_score": 36
+      "hot_score": 37
     },
     {
       "name": {
@@ -482,7 +482,7 @@
       "version": "0.0.1",
       "id": "com_DUSKTALECNJoystick_MobileByMuBai",
       "publish_time": "2026-07-07T04:13:55.454Z",
-      "hot_score": 16
+      "hot_score": 17
     },
     {
       "name": {
@@ -617,7 +617,7 @@
       "version": "0.0.1",
       "id": "com_waterfallencounter_MobileByznm",
       "publish_time": "2026-09-14T10:05:03.350Z",
-      "hot_score": 2
+      "hot_score": 3
     },
     {
       "name": {
@@ -692,7 +692,7 @@
       "version": "0.0.1",
       "id": "com_subrain_dtlg",
       "publish_time": "2026-09-13T14:16:41.321Z",
-      "hot_score": 112
+      "hot_score": 113
     },
     {
       "name": {
@@ -1562,7 +1562,7 @@
       "version": "0.0.1",
       "id": "Gms2_OverSaveTale032AlmostOfficial_GameByFDYMobileByHadrian767",
       "publish_time": "2026-09-07T11:43:53.604Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -1652,7 +1652,7 @@
       "version": "0.0.1",
       "id": "KRC_GamebyBosshim_MobileByOneCJ",
       "publish_time": "2026-06-15T02:55:53.087Z",
-      "hot_score": 38
+      "hot_score": 39
     },
     {
       "name": {
@@ -2027,7 +2027,7 @@
       "version": "0.0.1",
       "id": "com_underfellsaty_mobilebyznm",
       "publish_time": "2026-09-14T13:44:19.418Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -2177,7 +2177,7 @@
       "version": "0.0.1",
       "id": "com_utremake_MobileByznm",
       "publish_time": "2026-09-09T11:28:07.906Z",
-      "hot_score": 9
+      "hot_score": 10
     },
     {
       "name": {
@@ -2222,7 +2222,7 @@
       "version": "0.0.1",
       "id": "com_alittlechange_MobileByznm",
       "publish_time": "2026-09-14T14:18:58.585Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
@@ -2327,7 +2327,7 @@
       "version": "0.0.1",
       "id": "com_example_myapp",
       "publish_time": "2026-08-16T08:51:28.598Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -2342,7 +2342,7 @@
       "version": "0.0.1",
       "id": "com_utrj_MobileByznm",
       "publish_time": "2026-09-03T03:40:24.227Z",
-      "hot_score": 8
+      "hot_score": 9
     },
     {
       "name": {
@@ -2507,7 +2507,7 @@
       "version": "0.0.1",
       "id": "comimissthqu_MobileByznm",
       "publish_time": "2026-09-14T08:59:55.775Z",
-      "hot_score": 1
+      "hot_score": 2
     },
     {
       "name": {
@@ -2522,7 +2522,7 @@
       "version": "0.0.1",
       "id": "com_karma_MobileByznm",
       "publish_time": "2026-08-14T07:23:15.759Z",
-      "hot_score": 7
+      "hot_score": 8
     },
     {
       "name": {
@@ -2856,17 +2856,32 @@
     },
     {
       "name": {
-        "zh": "骨头传说",
-        "en": "BONETALE"
+        "en": "BONETALE",
+        "zh": "骨头传说"
       },
       "author": {
-        "zh": "Woloned",
-        "en": "Woloned"
+        "en": "Woloned",
+        "zh": "Woloned"
       },
       "engine": "ClickTeam",
       "version": "0.0.1",
       "id": "com_rewase_bonetale",
       "publish_time": "2026-09-15T04:53:05.131Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "反转残暴：大动乱",
+        "en": "SWAPFELL:Maelstrom"
+      },
+      "author": {
+        "zh": "gamejolter541",
+        "en": "gamejolter541"
+      },
+      "engine": "Godot",
+      "version": "0.0.1",
+      "id": "com_ilkamp_swapfellpaps",
+      "publish_time": "2026-09-16T09:38:09.867Z",
       "hot_score": 0
     }
   ],
