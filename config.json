@@ -2913,6 +2913,21 @@
       "id": "org_godotengine_papyrusencounter",
       "publish_time": "2026-09-16T10:45:51.447Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃转换：荆棘",
+        "en": "DUSTSHIFT:Thorns"
+      },
+      "author": {
+        "zh": "Stress",
+        "en": "Stress"
+      },
+      "engine": "Godot",
+      "version": "0.0.1",
+      "id": "com_jm47_dsthornsport",
+      "publish_time": "2026-09-16T11:29:57.212Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "0.2.6",
