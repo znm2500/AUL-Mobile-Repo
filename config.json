@@ -1907,7 +1907,7 @@
       "version": "0.0.1",
       "id": "com_timeparadox_mobilebyznm",
       "publish_time": "2026-09-05T13:36:00.057Z",
-      "hot_score": 13
+      "hot_score": 14
     },
     {
       "name": {
@@ -1922,7 +1922,7 @@
       "version": "0.0.1",
       "id": "cn_TimeParadoxRemake_GameByRaihyouMobileByTianqi233",
       "publish_time": "2026-06-27T03:11:53.385Z",
-      "hot_score": 40
+      "hot_score": 41
     },
     {
       "name": {
@@ -2702,7 +2702,7 @@
       "version": "0.0.1",
       "id": "com_vhs_MobileByznm",
       "publish_time": "2026-07-09T15:14:42.022Z",
-      "hot_score": 43
+      "hot_score": 44
     },
     {
       "name": {
@@ -2871,12 +2871,12 @@
     },
     {
       "name": {
-        "zh": "反转残暴：大动乱",
-        "en": "SWAPFELL:Maelstrom"
+        "en": "SWAPFELL:Maelstrom",
+        "zh": "反转残暴：大动乱"
       },
       "author": {
-        "zh": "gamejolter541",
-        "en": "gamejolter541"
+        "en": "gamejolter541",
+        "zh": "gamejolter541"
       },
       "engine": "Godot",
       "version": "0.0.1",
@@ -2886,47 +2886,62 @@
     },
     {
       "name": {
-        "zh": "尘埃反转：尘埃的信任衫斯战",
-        "en": "DUSTSWAP:DUSTTRUST Sans Fight"
+        "en": "DUSTSWAP:DUSTTRUST Sans Fight",
+        "zh": "尘埃反转：尘埃的信任衫斯战"
       },
       "author": {
-        "zh": "Dingyspy",
-        "en": "Dingyspy"
+        "en": "Dingyspy",
+        "zh": "Dingyspy"
       },
       "engine": "Godot",
       "version": "0.0.1",
       "id": "com_jm47_dingyspydt",
       "publish_time": "2026-09-16T10:29:33.484Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
-        "zh": "尘埃的信任派帕瑞斯遭遇战",
-        "en": "DUSTTRUST Papyrus Encounter"
+        "en": "DUSTTRUST Papyrus Encounter",
+        "zh": "尘埃的信任派帕瑞斯遭遇战"
       },
       "author": {
-        "zh": "Dingyspy",
-        "en": "Dingyspy"
+        "en": "Dingyspy",
+        "zh": "Dingyspy"
       },
       "engine": "Godot",
       "version": "0.0.1",
       "id": "org_godotengine_papyrusencounter",
       "publish_time": "2026-09-16T10:45:51.447Z",
-      "hot_score": 0
+      "hot_score": 1
     },
     {
       "name": {
-        "zh": "尘埃转换：荆棘",
-        "en": "DUSTSHIFT:Thorns"
+        "en": "DUSTSHIFT:Thorns",
+        "zh": "尘埃转换：荆棘"
       },
       "author": {
-        "zh": "Stress",
-        "en": "Stress"
+        "en": "Stress",
+        "zh": "Stress"
       },
       "engine": "Godot",
       "version": "0.0.1",
       "id": "com_jm47_dsthornsport",
       "publish_time": "2026-09-16T11:29:57.212Z",
+      "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：最后的呼吸困难模式",
+        "en": "UNDERTALE:Last Breath Hard Mode"
+      },
+      "author": {
+        "zh": "Gravity",
+        "en": "Gravity"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "com_ULBHARDJoystick_MobileByMuBai",
+      "publish_time": "2026-09-17T09:23:52.089Z",
       "hot_score": 0
     }
   ],
